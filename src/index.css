@@ -24,5 +24,6 @@
 
 body{
   font-family: "Nsans Regular", Tahoma, Geneva, Veranda, sans-serif;
-
+  background-color: black;
+  color: #fff;
 }
