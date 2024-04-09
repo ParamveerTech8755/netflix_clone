@@ -1,1 +1,3 @@
-The hosted url will be available here as soon as I deploy the site.
+link to deployed website
+
+https://netflix-clone-pink-omega.vercel.app/
